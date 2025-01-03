@@ -1,0 +1,12 @@
+git init - to initialose
+
+git add filename  - to add untracked files to tracked files
+
+git commit -m "msg"
+
+git remote add origin url
+
+git push -u origin master
+
+command to clone repo 
+git clone url
